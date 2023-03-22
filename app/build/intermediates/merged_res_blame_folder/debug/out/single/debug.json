@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_stroke.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/stroke.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_stroke_im.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/stroke_im.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_cuts_scrapes_children_first_aid.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/cuts_scrapes_children_first_aid.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_sprains_strains_im.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/sprains_strains_im.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_logo.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/logo.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_sp.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/sp.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_bites.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/bites.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/layout_activity_main.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_food_poison.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/food_poison.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_kits_first.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/kits_first.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_sprains.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/sprains.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_sah.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/sah.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_burn_hand.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/burn_hand.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_bleedsnose.jpeg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/bleedsnose.jpeg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_about__us.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/about__us.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_two.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/two.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_splinters.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/splinters.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_sos.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/sos.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_about_us.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/about_us.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_fever.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/fever.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_nosebleeds.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/nosebleeds.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_food_poisoning.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/food_poisoning.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_first_aid_icon.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/first_aid_icon.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_insect_stings.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/insect_stings.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/layout_activity_profile.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_splinters_im.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/splinters_im.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_fever_im.jpg.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/fever_im.jpg"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_iconfirst.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/iconfirst.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_map.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/map.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_alert_red.xml.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/alert_red.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.user.first_aid.app-pngs-18:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_hand_burn.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/hand_burn.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/drawable_cuts_injury.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/drawable/cuts_injury.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-merged_res-23:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.user.first_aid.app-main-25:/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

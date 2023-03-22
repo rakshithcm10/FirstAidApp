@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.user.first_aid.app-mergeDebugResources-22:/layout/activity_profile.xml",
+        "source": "com.example.user.first_aid.app-main-25:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-mergeDebugResources-22:/layout/activity_splash_screen.xml",
+        "source": "com.example.user.first_aid.app-main-25:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.user.first_aid.app-mergeDebugResources-22:/layout/activity_main.xml",
+        "source": "com.example.user.first_aid.app-main-25:/layout/activity_main.xml"
+    }
+]

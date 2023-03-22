@@ -1,0 +1,9 @@
+com/example/user/first_aid/BuildConfig.java
+ com.example.user.first_aid.BuildConfig
+com/example/user/first_aid/profileActivity.java
+ com.example.user.first_aid.profileActivity
+com/example/user/first_aid/MainActivity.java
+ com.example.user.first_aid.MainActivity
+com/example/user/first_aid/SplashScreen.java
+ com.example.user.first_aid.SplashScreen
+ com.example.user.first_aid.SplashScreen$1
